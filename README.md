@@ -114,5 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
