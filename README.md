@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
+| [1019-next-greater-node-in-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Hash Table
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
+| [1019-next-greater-node-in-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
