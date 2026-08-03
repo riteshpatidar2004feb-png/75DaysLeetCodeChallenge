@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
+| [1006-clumsy-factorial](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1006-clumsy-factorial) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Math
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0593-valid-square](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0593-valid-square) |
+| [1006-clumsy-factorial](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1006-clumsy-factorial) |
 | [1390-four-divisors](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1006-clumsy-factorial](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1006-clumsy-factorial) |
 | [1019-next-greater-node-in-linked-list](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/riteshpatidar2004feb-png/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/riteshpatidar2004feb-png/DSA_TEYYARI_ritz_2028/tree/master/1944-number-of-visible-people-in-a-queue) |
