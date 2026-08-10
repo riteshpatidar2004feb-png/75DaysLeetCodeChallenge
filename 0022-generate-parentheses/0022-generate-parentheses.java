@@ -10,32 +10,35 @@ class Solution {
             list.add(s);
             return;
         }
-        char ch = '\0';
-        if(s.length() != 0) ch = s.charAt(s.length() - 1);
-        if(s.length() == 0) {
-            addparenthesis(s+"(", n, l+1, r, list);
-            return;
-        }
-        else if(ch == ')' && l == r){
-            addparenthesis(s+"(", n, l+1, r, list);
-            return;
-        }
+        // char ch = '\0';
+        // if(s.length() != 0) ch = s.charAt(s.length() - 1);
+        // if(s.length() == 0) {
+        //     addparenthesis(s+"(", n, l+1, r, list);
+        //     return;
+        // }
+        // else if(ch == ')' && l == r){
+        //     addparenthesis(s+"(", n, l+1, r, list);
+        //     return;
+        // }
 
-        else if( ( ch == '(' || ch == ')' ) && l == n){
-            addparenthesis(s+")", n, l, r+1, list);
-            return;
-        }
+        // else if( ( ch == '(' || ch == ')' ) && l == n){
+        //     addparenthesis(s+")", n, l, r+1, list);
+        //     return;
+        // }
 
-        else if( ch == '(' && l < n){
-            addparenthesis(s+"(", n, l+1, r, list);
-            addparenthesis(s+")", n, l, r+1, list);
-            return;
-        }
+        // else if( ch == '(' && l < n){
+        //     addparenthesis(s+"(", n, l+1, r, list);
+        //     addparenthesis(s+")", n, l, r+1, list);
+        //     return;
+        // }
 
-        else if( ch == ')' && l < n){
-            addparenthesis(s+"(", n, l+1, r, list);
-            addparenthesis(s+")", n, l, r+1, list);
-            return;
-        }
+        // else if( ch == ')' && l < n){
+        //     addparenthesis(s+"(", n, l+1, r, list);
+        //     addparenthesis(s+")", n, l, r+1, list);
+        //     return;
+        // }
+
+        if(l < n) addparenthesis(s+"(", n, l+1, r, list);
+        if(r < l) addparenthesis(s+")", n, l, r+1, list);
     }
 }
