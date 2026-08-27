@@ -13,11 +13,14 @@ class Solution {
             }
             else map.get(String.valueOf(str)).add(s);
         }
-        List<List<String>> list = new ArrayList<>();
-        for(String key: map.keySet()){
-            ArrayList<String> list1 = map.get(key);
-            list.add(list1);
-        }
-        return list;
+        // List<List<String>> list = new ArrayList<>();
+        // for(String key: map.keySet()){
+        //     ArrayList<String> list1 = map.get(key);
+        //     list.add(list1);
+        // }
+        // return list;
+
+        //Yeh niche wala return chatgpt ka hai upr wale commented code ka compact version
+        return new ArrayList<>(map.values());
     }
 }
